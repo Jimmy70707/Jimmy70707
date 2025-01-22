@@ -25,9 +25,9 @@ Here are some of the exciting projects I have worked on:
    - [Project Repository](https://github.com/Jimmy70707/Private-Chatbot-RAG)
 
 ## Get in Touch
-- 📧 Email: your.email@example.com
-- 💼 LinkedIn: [linkedin.com/in/yourprofile](https://www.linkedin.com/in/muhammed-gamal-b0a347244/)
-- 🌐 Portfolio: [yourportfolio.com](Link)
+- 📧 Email: muhammed.gammal00@gmail.com
+- 💼 LinkedIn: [linkedin.com/in/MyProfile](https://www.linkedin.com/in/muhammed-gamal-b0a347244/)
+- 🌐 Portfolio: [My Portfolio](Link)
 
 Let's connect and collaborate on exciting AI projects! 🚀
 
