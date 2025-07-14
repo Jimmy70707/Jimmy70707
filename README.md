@@ -27,8 +27,7 @@ Here are some of the exciting projects I have worked on:
 ## Get in Touch
 - 📧 Email: muhammed.gammal00@gmail.com
 - 💼 LinkedIn: [linkedin.com/in/MyProfile](https://www.linkedin.com/in/muhammed-gamal-b0a347244/)
-- 🌐 Portfolio: [My Portfolio](Link)
-
+  
 Let's connect and collaborate on exciting AI projects! 🚀
 
 
